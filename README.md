@@ -15,3 +15,8 @@ https://i.imgur.com/UKT0bsA.png this source had anything previously pasted in by
 if you work with, or have worked with frosty aka darkingman, your source is not safe. he has no respect for personal privacy and is so insecure he feels the need to dox you whenever he doesnt get his way. you can catch him regularly pasting shit from UC without knowing what it does.
 
 and as for the "group cheat" this is my source the group based off of, little changes were added. frosty has added his version to UC with his 3 things he pasted in. and ad for the "ragebot in frosty" that was a perfecthook paste that i did visuals for. nothing in either of these cheats was developed by frosty aka darkingman. ill admit he did some work in frosty v2 but there is none of his code in this cheat. i left intercrime because of this shitbag holding my dox over my head to rejoin so i can code for them. i dont want him to have my source, however pasted it might be, because he wil try and sell it to others. oh well, enjoy it now. and im banned from UC for a while too B)
+
+
+https://i.imgur.com/djmVSAg.png
+
+heres the 2 (1) commit to the git youve ever pushed!!!!!! fuck off skid 
